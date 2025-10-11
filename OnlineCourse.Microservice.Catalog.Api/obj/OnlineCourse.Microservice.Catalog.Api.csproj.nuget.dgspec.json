@@ -59,6 +59,18 @@
               "target": "Package",
               "version": "[1.22.1, )"
             },
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "NewId": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "ReSharper.Annotations": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
