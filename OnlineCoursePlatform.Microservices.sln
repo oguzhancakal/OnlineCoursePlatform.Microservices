@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourse.Microservice.C
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{81DDED9D-158B-E303-5F62-77A2896D2A5A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{7B215391-5A3B-47C4-A6E9-AF9A63549791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourseMicroservice.Shared", "..\OnlineCourseMicroservice.Shared\OnlineCourseMicroservice.Shared.csproj", "{EF13CB78-233B-4B26-8DDE-9C311256F51E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,10 @@ Global
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81DDED9D-158B-E303-5F62-77A2896D2A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF13CB78-233B-4B26-8DDE-9C311256F51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF13CB78-233B-4B26-8DDE-9C311256F51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF13CB78-233B-4B26-8DDE-9C311256F51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF13CB78-233B-4B26-8DDE-9C311256F51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +43,8 @@ Global
 		{9D5621C7-B03C-4340-AAEF-5D64630E3324} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{A7FD4E9B-6A63-408E-82C8-2EFA56F0B284} = {9D5621C7-B03C-4340-AAEF-5D64630E3324}
 		{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733} = {A7FD4E9B-6A63-408E-82C8-2EFA56F0B284}
+		{7B215391-5A3B-47C4-A6E9-AF9A63549791} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EF13CB78-233B-4B26-8DDE-9C311256F51E} = {7B215391-5A3B-47C4-A6E9-AF9A63549791}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3D679B29-2CD8-4761-AB63-C2A907835338}
