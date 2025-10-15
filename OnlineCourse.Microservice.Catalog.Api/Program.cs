@@ -1,4 +1,7 @@
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
+using OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create;
 using OnlineCourse.Microservice.Catalog.Api.Options;
 using OnlineCourse.Microservice.Catalog.Api.Repositories;
 
@@ -15,6 +18,6 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+} 
 
 app.Run();
