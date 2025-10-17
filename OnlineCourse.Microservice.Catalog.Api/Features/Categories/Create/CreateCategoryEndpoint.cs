@@ -1,21 +1,16 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using OnlineCourseMicroservice.Shared.Extensions;
 
 namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create
 {
     public static class CreateCategoryEndpoint
     {
-        public static RouteGroupBuilder CreateCategoryEndpointExt(this RouteGroupBuilder group)
+        public static RouteGroupBuilder CreateCategoryGroupItemEndpoint(this RouteGroupBuilder group)
         {
-            group.MapPost("/", async (CreateCategoryCommand command, IMediator mediator) =>
-            {
-                var result = await mediator.Send(command);
+            group.MapPost("/", async (CreateCategoryCommand command, IMediator mediator) => (await mediator.Send(command)).ToGenericResult());
 
-                return new ObjectResult(result)
-                {
-                    StatusCode = result.Status.GetHashCode()
-                };
-            });
+
                 return group;
         }
     }

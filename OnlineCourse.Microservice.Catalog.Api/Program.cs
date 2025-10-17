@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
+using OnlineCourse.Microservice.Catalog.Api.Features.Categories;
 using OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create;
 using OnlineCourse.Microservice.Catalog.Api.Options;
 using OnlineCourse.Microservice.Catalog.Api.Repositories;
@@ -8,11 +9,14 @@ using OnlineCourse.Microservice.Catalog.Api.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
 builder.Services.AddOptionExt();
 builder.Services.AddDatabaseServiceExt();   
 
 var app = builder.Build();
+
+
+app.AddCategoryGroupEndpointExt();
+
 
 if (app.Environment.IsDevelopment())
 {
