@@ -70,3 +70,4 @@ C:\Users\ASUS_TUF\source\repos\OnlineCoursePlatform.Microservices\OnlineCourse.M
 C:\Users\ASUS_TUF\source\repos\OnlineCoursePlatform.Microservices\OnlineCourse.Microservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\ASUS_TUF\source\repos\OnlineCoursePlatform.Microservices\OnlineCourse.Microservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\ASUS_TUF\source\repos\OnlineCoursePlatform.Microservices\OnlineCourse.Microservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ASUS_TUF\source\repos\OnlineCoursePlatform.Microservices\OnlineCourse.Microservice.Catalog.Api\bin\Debug\net8.0\AutoMapper.dll

@@ -25,6 +25,16 @@
             "description": "OK"
           }
         }
+      },
+      "get": {
+        "tags": [
+          "OnlineCourse.Microservice.Catalog.Api"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },
