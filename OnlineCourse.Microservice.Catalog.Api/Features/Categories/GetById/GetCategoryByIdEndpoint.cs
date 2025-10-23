@@ -1,15 +1,7 @@
-﻿using AutoMapper;
-using MediatR;
-using OnlineCourse.Microservice.Catalog.Api.Features.Categories.Dtos;
-using OnlineCourse.Microservice.Catalog.Api.Repositories;
-using OnlineCourseMicroservice.Shared;
-using OnlineCourseMicroservice.Shared.Extensions;
-using System.Net;
-
-namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById
+﻿namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById
 {
 
-    public record GetCategoryByIdQuery(Guid Id) : IRequest<ServiceResult<CategoryDto>>
+    public record GetCategoryByIdQuery(Guid Id) : IRequestByServiceResult<CategoryDto>
     {
 
     }
