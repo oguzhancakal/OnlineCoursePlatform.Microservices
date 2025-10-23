@@ -36,5 +36,27 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById.GetCategoryByIdEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CGetByIdCategoryGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/categories/{id:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

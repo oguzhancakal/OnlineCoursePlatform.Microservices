@@ -1,5 +1,6 @@
 ﻿using OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create;
 using OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetAll;
+using OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById;
 
 namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories
 {
@@ -9,7 +10,8 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories
         {
             app.MapGroup("api/categories")
                 .CreateCategoryGroupItemEndpoint()
-                .GetAllCategoryGroupItemEndpoint();
+                .GetAllCategoryGroupItemEndpoint()
+                .GetByIdCategoryGroupItemEndpoint();
 
 
         }
