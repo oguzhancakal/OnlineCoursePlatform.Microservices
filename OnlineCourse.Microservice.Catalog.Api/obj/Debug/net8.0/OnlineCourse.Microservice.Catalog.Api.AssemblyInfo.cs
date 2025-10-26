@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineCourse.Microservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0fbee90617fc02d2ce29236a62a8a921ef34acf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba7a4310e7bc01a5aee0123c4e93fa0a0ab65d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineCourse.Microservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineCourse.Microservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
