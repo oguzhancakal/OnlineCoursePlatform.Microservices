@@ -1,12 +1,7 @@
-using MediatR;
-using Microsoft.AspNetCore.Mvc;
-using MongoDB.Driver;
 using OnlineCourse.Microservice.Catalog.Api;
 using OnlineCourse.Microservice.Catalog.Api.Features.Categories;
-using OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create;
+using OnlineCourse.Microservice.Catalog.Api.Features.Courses;
 using OnlineCourse.Microservice.Catalog.Api.Options;
-using OnlineCourse.Microservice.Catalog.Api.Repositories;
-using OnlineCourseMicroservice.Shared.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +16,7 @@ var app = builder.Build();
 
 
 app.AddCategoryGroupEndpointExt();
+app.AddCourseGroupEndpointExt();
 
 
 if (app.Environment.IsDevelopment())

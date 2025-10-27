@@ -8,7 +8,7 @@
     "/api/categories": {
       "post": {
         "tags": [
-          "OnlineCourse.Microservice.Catalog.Api"
+          "Categories"
         ],
         "requestBody": {
           "content": {
@@ -28,7 +28,7 @@
       },
       "get": {
         "tags": [
-          "OnlineCourse.Microservice.Catalog.Api"
+          "Categories"
         ],
         "responses": {
           "200": {
@@ -40,7 +40,7 @@
     "/api/categories/{id}": {
       "get": {
         "tags": [
-          "OnlineCourse.Microservice.Catalog.Api"
+          "Categories"
         ],
         "parameters": [
           {
@@ -53,6 +53,28 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/courses": {
+      "post": {
+        "tags": [
+          "Courses"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCategoryCommand"
+              }
+            }
+          },
+          "required": true
+        },
         "responses": {
           "200": {
             "description": "OK"

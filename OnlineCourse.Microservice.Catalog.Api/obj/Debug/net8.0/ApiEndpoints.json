@@ -19,6 +19,9 @@
         "MediaTypes": [],
         "StatusCode": 200
       }
+    ],
+    "Tags": [
+      "Categories"
     ]
   },
   {
@@ -35,6 +38,9 @@
         "MediaTypes": [],
         "StatusCode": 200
       }
+    ],
+    "Tags": [
+      "Categories"
     ]
   },
   {
@@ -57,6 +63,34 @@
         "MediaTypes": [],
         "StatusCode": 200
       }
+    ],
+    "Tags": [
+      "Categories"
+    ]
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create.CreateCategoryEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CCreateCategoryGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/courses/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create.CreateCategoryCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Courses"
     ]
   }
 ]
