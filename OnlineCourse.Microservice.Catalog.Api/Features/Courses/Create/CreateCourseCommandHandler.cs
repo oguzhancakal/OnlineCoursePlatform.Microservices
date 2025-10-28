@@ -9,19 +9,26 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create
 
             if (!hasCategory)
             {
-                return ServiceResult<Guid>.Error("Category Not Found", $"Category with Id {request.CategoryId} was not found.", HttpStatusCode.NotFound);
+                return ServiceResult<Guid>.Error("Category Not Found", $"Category with Id {request.CategoryId}) was not found.", HttpStatusCode.NotFound);
             }
 
             var hasCourse = await context.Courses.AnyAsync(x => x.Name == request.Name, cancellationToken);
 
             if (hasCourse)
             {
-                return ServiceResult<Guid>.Error("Duplicate Course", $"Course with name {request.Name} already exists.", HttpStatusCode.Conflict);
+                return ServiceResult<Guid>.Error("Duplicate Course", $"Course with name {request.Name}) already exists.", HttpStatusCode.Conflict);
             }
 
 
             var newCourse = mapper.Map<Course>(request);
             newCourse.Created = DateTime.Now;
+            newCourse.Id = NewId.NextSequentialGuid();// ındex performance
+            newCourse.Feature = new Feature()
+            {
+                Duration = 10,// calculated by course video
+                EducatorFullName = "Oğuzhan Çakal", // get by token payload
+                Rating = 0
+            };
 
             context.Courses.Add(newCourse);
             await context.SaveChangesAsync(cancellationToken);

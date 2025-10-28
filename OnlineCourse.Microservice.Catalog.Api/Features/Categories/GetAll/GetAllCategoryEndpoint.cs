@@ -28,7 +28,8 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetAll
         {
             group.MapGet("/",
                     async (IMediator mediator) =>
-                        (await mediator.Send(new GetAllCategoryQuery())).ToGenericResult());
+                        (await mediator.Send(new GetAllCategoryQuery())).ToGenericResult())
+                .WithName("GetAllCategory");
 
             return group;
         }

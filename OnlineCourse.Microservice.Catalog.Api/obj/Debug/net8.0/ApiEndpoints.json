@@ -15,14 +15,36 @@
     ],
     "ReturnTypes": [
       {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
         "Type": "System.Void",
         "MediaTypes": [],
-        "StatusCode": 200
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ],
     "Tags": [
       "Categories"
-    ]
+    ],
+    "EndpointName": "CreateCategory"
   },
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetAll.GetAllCategoriesEndpoint\u002B\u003C\u003Ec",
@@ -41,7 +63,8 @@
     ],
     "Tags": [
       "Categories"
-    ]
+    ],
+    "EndpointName": "GetAllCategory"
   },
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById.GetCategoryByIdEndpoint\u002B\u003C\u003Ec",
@@ -66,11 +89,12 @@
     ],
     "Tags": [
       "Categories"
-    ]
+    ],
+    "EndpointName": "GetByIdCategory"
   },
   {
-    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create.CreateCategoryEndpoint\u002B\u003C\u003Ec",
-    "Method": "\u003CCreateCategoryGroupItemEndpoint\u003Eb__0_0",
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create.CreateCourseCommandEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CCreateCourseGroupItemEndpoint\u003Eb__0_0",
     "RelativePath": "api/courses/",
     "HttpMethod": "POST",
     "IsController": false,
@@ -78,19 +102,41 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create.CreateCategoryCommand",
+        "Type": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create.CreateCourseCommand",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
         "Type": "System.Void",
         "MediaTypes": [],
-        "StatusCode": 200
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ],
     "Tags": [
       "Courses"
-    ]
+    ],
+    "EndpointName": "CreateCourse"
   }
 ]
