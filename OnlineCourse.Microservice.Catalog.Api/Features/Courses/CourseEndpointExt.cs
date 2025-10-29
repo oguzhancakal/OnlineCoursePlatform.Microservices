@@ -1,4 +1,6 @@
 ﻿using OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create;
+using OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAll;
+
 
 namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses
 {
@@ -7,7 +9,9 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses
         public static void AddCourseGroupEndpointExt(this WebApplication app)
         {
             app.MapGroup("api/courses").WithTags("Courses")
-                .CreateCourseGroupItemEndpoint();
+                .CreateCourseGroupItemEndpoint()
+                .GetAllCourseGroupItemEndpoint();
+
 
         }
     }

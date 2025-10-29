@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using OnlineCourseMicroservice.Shared.Extensions;
-using UdemyNewMicroservice.Shared.Filters;
+using OnlineCourseMicroservice.Shared.Filters;
 
 namespace OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create
 {

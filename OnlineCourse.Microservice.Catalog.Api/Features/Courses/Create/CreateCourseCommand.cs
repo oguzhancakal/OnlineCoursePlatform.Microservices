@@ -1,10 +1,13 @@
-﻿namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create
+﻿namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create;
+
+public record CreateCourseCommand : IRequestByServiceResult<Guid>
 {
-    public record CreateCourseCommand(
-        string Name,
-        string Description,
-        decimal Price,
-        string? ImageUrl,
-        Guid CategoryId) :
-        IRequestByServiceResult<Guid>;
+    public string Name { get; init; } = null!;
+    public string Description { get; init; } = null!;
+    public decimal Price { get; init; }
+    public Guid CategoryId { get; init; }
+
+    public string? ImageUrl { get; init; }
+
+
 }

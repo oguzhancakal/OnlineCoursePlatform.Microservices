@@ -138,5 +138,25 @@
       "Courses"
     ],
     "EndpointName": "CreateCourse"
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAll.GetAllCoursesEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CGetAllCourseGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/courses/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Courses"
+    ],
+    "EndpointName": "GetAllCourses"
   }
 ]

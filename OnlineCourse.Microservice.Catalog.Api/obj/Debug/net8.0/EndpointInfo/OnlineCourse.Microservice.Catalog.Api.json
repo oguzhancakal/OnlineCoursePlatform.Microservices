@@ -102,13 +102,43 @@
         "operationId": "CreateCourse",
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/CreateCourseCommand"
+                "required": [
+                  "command"
+                ],
+                "type": "object",
+                "properties": {
+                  "command": {
+                    "$ref": "#/components/schemas/CreateCourseCommand"
+                  }
+                }
+              },
+              "encoding": {
+                "command": {
+                  "style": "form"
+                }
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "required": [
+                  "command"
+                ],
+                "type": "object",
+                "properties": {
+                  "command": {
+                    "$ref": "#/components/schemas/CreateCourseCommand"
+                  }
+                }
+              },
+              "encoding": {
+                "command": {
+                  "style": "form"
+                }
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "201": {
@@ -146,6 +176,17 @@
             }
           }
         }
+      },
+      "get": {
+        "tags": [
+          "Courses"
+        ],
+        "operationId": "GetAllCourses",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     }
   },
@@ -176,13 +217,13 @@
             "type": "number",
             "format": "double"
           },
-          "imageUrl": {
-            "type": "string",
-            "nullable": true
-          },
           "categoryId": {
             "type": "string",
             "format": "uuid"
+          },
+          "imageUrl": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
