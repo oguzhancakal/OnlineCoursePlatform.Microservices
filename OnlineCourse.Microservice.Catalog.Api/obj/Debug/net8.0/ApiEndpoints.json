@@ -158,5 +158,57 @@
       "Courses"
     ],
     "EndpointName": "GetAllCourses"
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Update.UpdateCourseCommandEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CUpdateCourseGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/courses/",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Update.UpdateCourseCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Courses"
+    ],
+    "EndpointName": "UpdateCourse"
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetById.GetCourseByIdEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CGetAByIdCourseGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/courses/{id:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Courses"
+    ],
+    "EndpointName": "GetByIdCourses"
   }
 ]
