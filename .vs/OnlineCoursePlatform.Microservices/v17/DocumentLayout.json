@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\courseendpointext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\delete\\deletecourseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\delete\\deletecourseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\getbyid\\getcoursebyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\getbyid\\getcoursebyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\update\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,10 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\onlinecourse.microservice.catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\onlinecourse.microservice.catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\courses\\getbyid\\getcoursebyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|solutionrelative:onlinecourse.microservice.catalog.api\\features\\courses\\getbyid\\getcoursebyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EE4FEF7-5EA7-4E43-AAE8-34A56E91D733}|OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.csproj|c:\\users\\asus_tuf\\source\\repos\\onlinecourseplatform.microservices\\onlinecourse.microservice.catalog.api\\features\\categories\\getbyid\\getcategorybyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -137,6 +141,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DeleteCourseEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Delete\\DeleteCourseEndpoint.cs",
+              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Delete\\DeleteCourseEndpoint.cs",
+              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Delete\\DeleteCourseEndpoint.cs",
+              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Delete\\DeleteCourseEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:35:13.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateCourseCommandEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandEndpoint.cs",
@@ -150,25 +167,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdateCourseCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
-              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
-              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
-              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T19:40:17.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "UpdateCourseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandHandler.cs",
               "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandHandler.cs",
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-02T19:27:33.911Z",
               "EditorCaption": ""
@@ -176,19 +180,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UpdateCourseCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
-              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
-              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
-              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T19:15:10.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CreateCourseCommandEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandEndpoint.cs",
@@ -196,7 +187,19 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandEndpoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:47:24.546Z",
+              "WhenOpened": "2025-10-28T19:47:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCourseByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
+              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:11:54.291Z",
               "EditorCaption": ""
             },
             {
@@ -207,14 +210,38 @@
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\CourseEndpointExt.cs",
               "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\CourseEndpointExt.cs",
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\CourseEndpointExt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T17:22:35.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "UpdateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
+              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
+              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:15:10.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCourseCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
+              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
+              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Update\\UpdateCourseCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:40:17.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Repositories\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Repositories\\AppDbContext.cs",
@@ -222,25 +249,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Repositories\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T19:31:27.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:31:27.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetCourseByIdEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
-              "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
-              "ToolTip": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
-              "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetById\\GetCourseByIdEndpoint.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAApwCMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T06:11:54.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CreateCourseCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandValidator.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandValidator.cs",
@@ -248,12 +261,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T17:05:44.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T17:05:44.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CategoryEndpointExt.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\CategoryEndpointExt.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\CategoryEndpointExt.cs",
@@ -261,12 +273,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\CategoryEndpointExt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:37:26.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:37:26.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GetAllCoursesEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetAll\\GetAllCoursesEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetAll\\GetAllCoursesEndpoint.cs",
@@ -274,12 +285,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\GetAll\\GetAllCoursesEndpoint.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T17:59:53.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T17:59:53.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GetCategoryByIdEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\GetById\\GetCategoryByIdEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\GetById\\GetCategoryByIdEndpoint.cs",
@@ -287,12 +297,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\GetById\\GetCategoryByIdEndpoint.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAhwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T06:12:05.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T06:12:05.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ServiceResult.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCourseMicroservice.Shared\\ServiceResult.cs",
               "RelativeDocumentMoniker": "..\\OnlineCourseMicroservice.Shared\\ServiceResult.cs",
@@ -300,12 +309,11 @@
               "RelativeToolTip": "..\\OnlineCourseMicroservice.Shared\\ServiceResult.cs",
               "ViewState": "AgIAABkAAAAAAAAAAADwv34AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T17:18:31.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T17:18:31.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OnlineCourse.Microservice.Catalog.Api.http",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.http",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.http",
@@ -313,12 +321,11 @@
               "RelativeToolTip": "OnlineCourse.Microservice.Catalog.Api\\OnlineCourse.Microservice.Catalog.Api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-29T17:07:32.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T17:07:32.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CourseMapping.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\CourseMapping.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\CourseMapping.cs",
@@ -330,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FeatureDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Dtos\\FeatureDto.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Dtos\\FeatureDto.cs",
@@ -342,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Feature.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Feature.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Feature.cs",
@@ -354,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GetAllCategoriesEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\GetAll\\GetAllCategoriesEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\GetAll\\GetAllCategoriesEndpoint.cs",
@@ -366,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Dtos\\CategoryDto.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Dtos\\CategoryDto.cs",
@@ -378,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CourseDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Dtos\\CourseDto.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Dtos\\CourseDto.cs",
@@ -390,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CreateCourseCommand.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommand.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommand.cs",
@@ -402,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "CreateCategoryResponse.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryResponse.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryResponse.cs",
@@ -414,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CreateCourseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Create\\CreateCourseCommandHandler.cs",
@@ -426,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "CreateCategoryCommand.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommand.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommand.cs",
@@ -438,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateCategoryEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryEndpoint.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryEndpoint.cs",
@@ -450,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CreateCategoryCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommandValidator.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommandValidator.cs",
@@ -462,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CreateCategoryCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommandHandler.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Categories\\Create\\CreateCategoryCommandHandler.cs",
@@ -474,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ValidationFilter.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCourseMicroservice.Shared\\Filters\\ValidationFilter.cs",
               "RelativeDocumentMoniker": "..\\OnlineCourseMicroservice.Shared\\Filters\\ValidationFilter.cs",
@@ -486,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Course.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\Features\\Courses\\Course.cs",
@@ -498,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\ASUS_TUF\\source\\repos\\OnlineCoursePlatform.Microservices\\OnlineCourse.Microservice.Catalog.Api\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "OnlineCourse.Microservice.Catalog.Api\\GlobalUsings.cs",
