@@ -2,6 +2,7 @@ using OnlineCourse.Microservice.Catalog.Api;
 using OnlineCourse.Microservice.Catalog.Api.Features.Categories;
 using OnlineCourse.Microservice.Catalog.Api.Features.Courses;
 using OnlineCourse.Microservice.Catalog.Api.Options;
+using OnlineCourse.Microservice.Catalog.Api.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,11 @@ builder.Services.AddCommonServices(typeof(CatalogAssembly));
 
 var app = builder.Build();
 
+
+await app.AddSeedDataExt().ContinueWith(x =>
+{
+    Console.WriteLine(x.IsFaulted ? x.Exception?.Message : "Seed data has been saved successfully");
+});
 
 app.AddCategoryGroupEndpointExt();
 app.AddCourseGroupEndpointExt();
