@@ -236,5 +236,31 @@
       "Courses"
     ],
     "EndpointName": "DeleteCourses"
+  },
+  {
+    "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAllByUserId.GetCourseByUserIdEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CGetByUserIdCourseGroupItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/courses/user/{userId:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Courses"
+    ],
+    "EndpointName": "GetByUserIdCourses"
   }
 ]
