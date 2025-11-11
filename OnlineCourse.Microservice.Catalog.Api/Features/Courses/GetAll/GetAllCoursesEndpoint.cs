@@ -30,7 +30,7 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAll
             group.MapGet("/",
                     async (IMediator mediator) =>
                         (await mediator.Send(new GetAllCoursesQuery())).ToGenericResult())
-                
+                .MapToApiVersion(1, 0)
                 .WithName("GetAllCourses");
 
             return group;

@@ -9,10 +9,9 @@ namespace OnlineCourse.Microservice.Catalog.Api.Features.Courses.Update
             group.MapPut("/",
                     async ( UpdateCourseCommand command, IMediator mediator) =>
                     (await mediator.Send(command)).ToGenericResult())
-                .WithName("UpdateCourse")
 
-                
-                
+                .MapToApiVersion(1, 0)
+                .WithName("UpdateCourse")
                 .AddEndpointFilter<ValidationFilter<UpdateCourseCommand>>().DisableAntiforgery();
 
 

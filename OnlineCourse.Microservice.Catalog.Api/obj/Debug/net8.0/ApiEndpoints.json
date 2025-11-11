@@ -2,7 +2,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.Create.CreateCategoryEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CCreateCategoryGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/categories/",
+    "RelativePath": "api/v1/categories/",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -49,7 +49,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetAll.GetAllCategoriesEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CGetAllCategoryGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/categories/",
+    "RelativePath": "api/v1/categories/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -69,7 +69,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Categories.GetById.GetCategoryByIdEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CGetByIdCategoryGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/categories/{id:guid}",
+    "RelativePath": "api/v1/categories/{id:guid}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -95,7 +95,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Create.CreateCourseCommandEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CCreateCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/",
+    "RelativePath": "api/v1/courses/",
     "HttpMethod": "POST",
     "IsController": false,
     "Order": 0,
@@ -142,7 +142,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAll.GetAllCoursesEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CGetAllCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/",
+    "RelativePath": "api/v1/courses/",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -162,7 +162,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Update.UpdateCourseCommandEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CUpdateCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/",
+    "RelativePath": "api/v1/courses/",
     "HttpMethod": "PUT",
     "IsController": false,
     "Order": 0,
@@ -188,7 +188,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetById.GetCourseByIdEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CGetAByIdCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/{id:guid}",
+    "RelativePath": "api/v1/courses/{id:guid}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
@@ -214,7 +214,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.Delete.DeleteCourseEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CDeleteCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/{id:guid}",
+    "RelativePath": "api/v1/courses/{id:guid}",
     "HttpMethod": "DELETE",
     "IsController": false,
     "Order": 0,
@@ -240,7 +240,7 @@
   {
     "ContainingType": "OnlineCourse.Microservice.Catalog.Api.Features.Courses.GetAllByUserId.GetCourseByUserIdEndpoint\u002B\u003C\u003Ec",
     "Method": "\u003CGetByUserIdCourseGroupItemEndpoint\u003Eb__0_0",
-    "RelativePath": "api/courses/user/{userId:guid}",
+    "RelativePath": "api/v1/courses/user/{userId:guid}",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
